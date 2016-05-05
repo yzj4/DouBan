@@ -10,4 +10,6 @@
 
 @interface DFMPlaylist : NSObject
 
+@property(nonatomic,copy)NSMutableArray* song;
+
 @end

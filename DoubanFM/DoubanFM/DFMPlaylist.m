@@ -7,7 +7,13 @@
 //
 
 #import "DFMPlaylist.h"
+#import "SongInfo.h"
 
 @implementation DFMPlaylist
+
++(NSDictionary*)objectClassInArray
+{
+    return @{@"song":NSStringFromClass([SongInfo class])};
+}
 
 @end
