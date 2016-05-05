@@ -18,6 +18,7 @@
     [super viewDidLoad];
     NSLog(@"nihao");
     NSLog(@"日了狗了");
+    NSLog(@"SB");
 }
 
 - (void)didReceiveMemoryWarning {
