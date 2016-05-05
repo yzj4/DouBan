@@ -19,6 +19,7 @@
     NSLog(@"nihao");
     NSLog(@"日了狗了");
     NSLog(@"SB");
+    NSLog(@"闹够了没有");
 }
 
 - (void)didReceiveMemoryWarning {
