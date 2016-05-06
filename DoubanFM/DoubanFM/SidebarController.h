@@ -7,7 +7,12 @@
 //
 
 #import <UIKit/UIKit.h>
-
-@interface SidebarController : UITabBarController
-
+#import "CDSideBarController.h"
+#import "AppDelegate.h"
+#import "PlayerViewController.h"
+#import "ChannelsTableViewCell.h"
+#import "UserInfoViewController.h"
+#import "LoginViewController.h"
+@interface SidebarController : UITabBarController<CDSideBarControllerDelegate>{
+}
 @end
