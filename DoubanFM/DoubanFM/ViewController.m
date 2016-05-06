@@ -20,6 +20,7 @@
     NSLog(@"日了狗了");
     NSLog(@"SB");
     NSLog(@"闹够了没有");
+    NSLog(@"如果没有你");
 }
 
 - (void)didReceiveMemoryWarning {
