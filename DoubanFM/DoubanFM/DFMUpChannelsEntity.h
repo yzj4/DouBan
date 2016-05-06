@@ -10,4 +10,6 @@
 
 @interface DFMUpChannelsEntity : NSObject
 
+@property (nonatomic, copy)NSMutableArray *channels;
+
 @end
