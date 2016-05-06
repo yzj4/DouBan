@@ -21,6 +21,7 @@
     NSLog(@"SB");
     NSLog(@"闹够了没有");
     NSLog(@"如果没有你");
+     NSLog(@"如果没有你11");
 }
 
 - (void)didReceiveMemoryWarning {
